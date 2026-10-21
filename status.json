@@ -5,8 +5,6 @@
   "title": "NIKK BOSS SERVER",
   "message": "ប្រព័ន្ធដំណើរការធម្មតា។ ចូលរួម Telegram ផ្លូវការដើម្បីទទួលបាន Update និង Patches ថ្មីៗ!",
   "telegram_url": "https://t.me/nikk_boss",
-  "telegram_bot_token": "8750761330:AAGthjbyK5Z5IT7SpwLievNAGbzky-mWuiE",
-  "admin_chat_id": "-1004362010348",
   "banned_udids": [],
   "banned_message": "DEVICE BANNED BY NIKK BOSS\nContaCt admin CliCk to Chat:\nt.me/nikk_boss",
   "allow_admin_bypass": true,
