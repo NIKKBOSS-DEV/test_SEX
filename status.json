@@ -1,15 +1,3 @@
 {
   "server_status": "ONLINE",
-  "latest_version": "2.1.0",
-  "min_required_version": "2.0.0",
-  "title": "NIKK BOSS SERVER",
-  "message": "ប្រព័ន្ធដំណើរការធម្មតា។ ចូលរួម Telegram ផ្លូវការដើម្បីទទួលបាន Update និង Patches ថ្មីៗ!",
-  "telegram_url": "https://t.me/nikk_boss",
-  "banned_udids": [],
-  "banned_message": "DEVICE BANNED BY NIKK BOSS\nContaCt admin CliCk to Chat:\nt.me/nikk_boss",
-  "allow_admin_bypass": true,
-  "logo_url": "https://raw.githubusercontent.com/NIKKBOSS-DEV/nikk-server/main/logo.png",
-  "banner_url": "https://raw.githubusercontent.com/NIKKBOSS-DEV/nikk-server/main/banner.jpg",
-  "announcement_title": "NIKK BOSS NOTIFICATION",
-  "announcement_message": ""
 }
